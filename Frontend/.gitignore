@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Mac system files
+__MACOSX/
+
+# Environment files
+.env
+.env.local
