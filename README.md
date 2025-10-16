@@ -1,4 +1,3 @@
-``markdown
 # 🚀 CODE_REVIEW — Full Stack React + Node.js Application
 
 A full-stack project built with **React (Frontend)** and **Node.js / Express (Backend)**.  
@@ -165,11 +164,4 @@ B.Tech in Computer Science, VIT Vellore
 **Backend Live Preview:**
 🟢 [Add your backend live URL here](#)
 
-```
 
----
-
-If you want, I can also **add badges for Node.js, React, and deployment platforms** so your README looks more professional and GitHub-ready.  
-
-Do you want me to do that too?
-```
