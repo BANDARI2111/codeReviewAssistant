@@ -58,7 +58,7 @@ CODE_REVIEW/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/CODE_REVIEW.git
+git clone https://github.com/BANDARI2111/codeReviewAssistant.git
 cd CODE_REVIEW
 ````
 
@@ -138,19 +138,11 @@ Deploy the `build/` folder using Netlify or Vercel.
 
 ---
 
-## 🧪 Future Enhancements
 
-* Add authentication using JWT/OAuth
-* Integrate MongoDB or PostgreSQL
-* Add error handling and input validation
-* Dockerize for easier deployment
-* Add testing with Jest or Mocha
-
----
 
 ## 👩‍💻 Author
 
-**Radha**
+**Rohith**
 B.Tech in Computer Science, VIT Vellore
 💡 Passionate about Full-Stack Development, Cloud Computing, and AI
 
