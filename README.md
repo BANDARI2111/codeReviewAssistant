@@ -7,12 +7,8 @@ The application demonstrates modern web development practices including componen
 
 ## 🌐 Live Demo
 
-**Frontend (Deployed on Netlify):**  
+**(Deployed on Netlify):**  
 👉 [https://stunning-biscuit-48bc38.netlify.app/](https://stunning-biscuit-48bc38.netlify.app/)
-
-**Backend (Deployed on Render / Vercel - Optional):**  
-👉 [Add your backend live URL here](#)
-
 ---
 
 ## 🧩 Project Overview
